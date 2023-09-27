@@ -21,7 +21,7 @@ iamakifislam@gmail.com<br><br><br>
     BurgerMaker burger = new BurgerMaker();
     burger.set_bun(4); 
 
-    Patty patty = new Patty(1);
+    Patty patty = new Patty(2);
     burger.make_burger(patty);
 ```
 ## Output
