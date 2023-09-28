@@ -22,5 +22,5 @@ iamakifislam@gmail.com<br><br><br>
 ```
 
 ## Output
-<img src='SampleOutput.png' width=411 height=235>
+<img src='SampleOutput.png'>
 
