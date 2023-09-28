@@ -6,5 +6,5 @@
  * */
 
 public interface Patty {
-    public void put_patty(int no_of_patty);
+    public void putPatty(int noOfPatty);
 }

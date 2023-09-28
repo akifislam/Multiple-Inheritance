@@ -7,5 +7,5 @@
  * N.B: '------' represents bun and '||||||' represents patty and '++++++' represents sauce
  * */
 public interface Sauce {
-    public void put_sauce(int no_of_sachets);
+    public void putSauce(int noOfSachets);
 }

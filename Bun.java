@@ -8,7 +8,7 @@
  * */
 
 public interface Bun {
-    void put_bun(int no_of_bun);
+    void putBun(int noOfBun);
 
 }
 
