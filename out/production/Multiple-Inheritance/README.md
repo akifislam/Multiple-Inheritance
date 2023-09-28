@@ -10,17 +10,19 @@ iamakifislam@gmail.com<br><br><br>
 ## Experiment
 <p>Demonstration of Multiple Inheritance in Java</p>
 
-## Diagram
-
-<img src='Multiple_Inheritance_Diagram.png'>
-
-
 ## How to Run?
 ```bash
-  $javac BurgerMain.java
-  $java BurgerMain
+  javac BurgerMaker.java
+  java BurgerMaker
 ```
 
-## Output
-<img src='SampleOutput.png' width=411 height=235>
+## Code
+```java
+    BurgerMaker burger = new BurgerMaker();
+    burger.set_bun(4); 
 
+    Patty patty = new Patty(2);
+    burger.make_burger(patty);
+```
+## Output
+<img src='SampleOutput.png'>
