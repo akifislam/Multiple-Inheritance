@@ -7,7 +7,7 @@ Akif Islam<br>
 Department of CSE, University of Rajshahi<br>
 iamakifislam@gmail.com<br><br><br>
 
-## Experiment
+## Experiment 01
 <p>Demonstration of Multiple Inheritance in Java</p>
 
 ## Diagram
